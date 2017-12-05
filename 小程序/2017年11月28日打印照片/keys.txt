@@ -6,3 +6,8 @@ MCHID
 	1486147632
 KEY
 	Lizidan1984100734082219841007247
+
+
+
+Â·¾¶£º
+https://github.com/AlairEileen/PhotoPrintWXSmall.git
